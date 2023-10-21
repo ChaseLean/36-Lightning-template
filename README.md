@@ -1,10 +1,11 @@
 # Make your own lightning bolts
-A JavaScript library to procedurally generate realistic lightning bolts.
+A Javascript program to procedurally generate realistic lightning bolts.
+
+Click here <a href="https://chaseleantj.github.io/js-lightning-effect/">here</a> for a live demo.
 
 <img src="pics/lightning_demo.jpg">
 
 ## Table of contents
-* [Demo](#demo)
 * [General info](#general-info)
 * [Getting started](#getting-started)
 * [Customization](#customization)
@@ -12,9 +13,6 @@ A JavaScript library to procedurally generate realistic lightning bolts.
 ## General info
 
 This program generates random lightning bolts and draws them on screen via the HTML canvas. The lightning is animated by default, and it is highly customizable.
-
-## Demo
-Click <a href="https://chaselean.github.io/js-lightning-effect/">here</a> for a live demo. 
 
 Alternatively, download the folder `docs`, and open `index.html` with a browser.
 
